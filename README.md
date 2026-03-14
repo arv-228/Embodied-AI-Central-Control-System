@@ -230,3 +230,28 @@ py -3.12 debug_main.py
 
 
 🛡️ 开源协议本项目采用 AGPL-3.0 协议开源。由于具备屏幕监控与系统控制能力，请在法律允许的范围内使用。
+
+
+
+
+
+
+
+AI Models Type 
+
+
+Pytorch Version (included config.json) (Recommend)
+
+
+GGUF Version now is not support with Qwen 3.5 Visual Version
+
+
+
+
+接入AI 模型类型
+
+
+Pytorch 版本 （带有config.json的模型）（推荐）
+
+
+GGUF版本暂时不支持Qwen 3.5 视觉多模态版本
